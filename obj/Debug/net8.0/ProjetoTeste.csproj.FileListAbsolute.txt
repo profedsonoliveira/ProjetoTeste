@@ -1,0 +1,14 @@
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.exe
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.deps.json
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.runtimeconfig.json
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.dll
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\bin\Debug\net8.0\ProjetoTeste.pdb
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.AssemblyInfo.cs
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.dll
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\refint\ProjetoTeste.dll
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.pdb
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ProjetoTeste.genruntimeconfig.cache
+C:\Users\Edson\Desktop\Codigos-fontesC#\ProjetoTeste\obj\Debug\net8.0\ref\ProjetoTeste.dll
